@@ -9,7 +9,7 @@ package moojaapka;
  *
  * @author tmarz
  */
-public class Moojaapka {
+public class Warzywniak {
 
     /**
      * @param args the command line arguments
